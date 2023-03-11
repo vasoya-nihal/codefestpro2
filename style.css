@@ -1,0 +1,200 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&family=Dancing+Script&family=Roboto+Slab:wght@500&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Cookie&display=swap%27");
+@import url("https://fonts.googleapis.com/css2?family=Cookie&family=Orbitron&display=swap%27");
+
+@import url("https://fonts.googleapis.com/css2?family=Baloo+2&family=Inter:wght@500&family=Rubik&family=Satisfy&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+ul {
+  list-style: none;
+}
+li {
+  float: left;
+  font-size: 4vh;
+}
+.firstpart {
+  background-image: url(images/bg2.jpg);
+  background-size: cover;
+  /* height: 100vh; */
+  /* width: 98vw; */
+  background-repeat: no-repeat;
+}
+
+.mountaineimg img {
+  height: 40vh;
+  width: 50vw;
+}
+
+.box1 {
+  background-color: rgba(202, 143, 34, 0.559);
+  margin-top: 50vh;
+  width: 32vw;
+  margin-left: 10vh;
+  border-radius: 10px;
+}
+
+.paragraph p {
+  text-align: center;
+}
+
+.s1text p {
+  font-size: 10vh;
+  color: white;
+  font-family: "Baloo Bhaina 2", cursive;
+  font-family: "Dancing Script", cursive;
+  font-family: "Roboto Slab", serif;
+}
+.s2text p {
+  font-family: "Cookie", cursive;
+  font-size: 10vh;
+  color: white;
+}
+
+.s3text p {
+  width: 35vw;
+  text-align: center;
+  color: white;
+}
+
+.s3text {
+  text-align: center;
+}
+.learnmore {
+  background-color: transparent;
+  height: 5vh;
+  width: 8vw;
+  /* border: 5px solid white; */
+  border-radius: 20px;
+  text-align: center;
+  margin-bottom: 10vh;
+}
+
+.black img {
+  position: relative;
+  top: -9vh;
+  width: 100%;
+  height: 30vh;
+}
+.orangepart {
+  margin-top: -15vh;
+  height: 80vh;
+  width: 97vw;
+  background-color: orange;
+}
+
+.mtext1 p {
+  text-align: center;
+  font-size: 8vh;
+}
+
+.footer_part {
+  background-image: url(images/bg5.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 97vw;
+
+  background-repeat: no-repeat;
+}
+
+.centertext p {
+  font-size: 4vh;
+  font-weight: 700;
+}
+.ft1 {
+  border-bottom: 2px solid black;
+  width: 10vw;
+}
+.ft2 {
+  border-bottom: 2px solid black;
+  width: 14vw;
+}
+.ft3 {
+  border-bottom: 2px solid black;
+  width: 8vw;
+}
+.para1 p {
+  width: 30vh;
+  text-align: justify;
+}
+
+.para2 p {
+  width: 30vh;
+  text-align: justify;
+}
+
+.para3 p {
+  width: 30vh;
+  text-align: justify;
+}
+
+.mtext1 p {
+  font-family: "Orbitron", sans-serif;
+}
+.buton1 button {
+  background-color: transparent;
+  border: 2px solid black;
+  border-radius: 12px;
+  width: 8vw;
+}
+.buton1 {
+  width: 103px;
+  border-radius: 21px;
+}
+
+.top1 button {
+  background-color: transparent;
+  border: 3px solid white;
+  border-radius: 12px;
+  width: 8vw;
+  font-weight: 400;
+}
+
+.searchbar {
+  /* margin-left: 50%; */
+  width: 15vw;
+  float: right;
+  text-align: center;
+  background-color: white;
+  border-radius: 20px;
+  padding: 5px;
+}
+::placeholder {
+  text-align: center;
+  font-size: 20px;
+}
+input {
+  border: none;
+}
+
+.logo span {
+  color: white;
+  font-size: 5vh;
+  font-family: "Baloo 2", cursive;
+  font-family: "Inter", sans-serif;
+  font-family: "Rubik", sans-serif;
+  font-family: "Satisfy", cursive;
+}
+
+.mtext2 {
+  background-color: black;
+  width: 40vw;
+  height: 25vh;
+  color: white;
+  border: 5px solid black;
+  border-radius: 32px;
+  box-shadow: 10px 5px 40px black;
+}
+.mtext2 p {
+  padding-top: 5vh;
+}
+
+a:hover {
+  background-color: rgba(0, 0, 0, 0.584);
+  border-radius: 10px;
+  padding: 5px;
+}
